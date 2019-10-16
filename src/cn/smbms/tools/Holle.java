@@ -6,5 +6,6 @@ package cn.smbms.tools;
 public class Holle {
     public static void main(String[] args) {
         System.out.println("123");
+        System.out.println("456");
     }
 }
